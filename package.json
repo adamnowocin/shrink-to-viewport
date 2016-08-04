@@ -1,0 +1,25 @@
+{
+  "name": "shrink-to-viewport",
+  "version": "1.0.0",
+  "description": "Shrinks the target element to fit the viewport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamnowocin/shrink-to-viewport.git"
+  },
+  "keywords": [
+    "shrink",
+    "element",
+    "to",
+    "viewport"
+  ],
+  "author": "Adam Nowocin <adam.nowocin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamnowocin/shrink-to-viewport/issues"
+  },
+  "homepage": "https://github.com/adamnowocin/shrink-to-viewport#readme"
+}
