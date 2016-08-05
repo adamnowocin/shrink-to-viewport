@@ -1,6 +1,6 @@
 {
   "name": "shrink-to-viewport",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shrinks the target element to fit the viewport",
   "main": "index.js",
   "scripts": {
