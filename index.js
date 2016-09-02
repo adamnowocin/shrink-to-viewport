@@ -20,6 +20,7 @@ var shrinkToViewport = function (elementId, elementWidth, elementHeight, shrinkO
     if (ratio !== newRatio) {
       ratio = newRatio;
       transform = 'scale(' + ratio + ')';
+      element.setAttribute("data-scale", ratio);
       element.style.transform = transform;
       element.style.webkitTransform = transform;
       element.style.msTransform = transform;
